@@ -1,0 +1,30 @@
+{
+ "name": "現場イメージ合成",
+ "short_name": "現場合成",
+ "description": "土間の写真に石畳などの柄を合成して施工後のイメージ写真をつくる",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#f3f5f6",
+ "theme_color": "#1f6c93",
+ "lang": "ja",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
