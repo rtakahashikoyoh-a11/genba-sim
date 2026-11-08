@@ -1,7 +1,7 @@
 {
  "name": "現場イメージ合成",
  "short_name": "現場合成",
- "description": "土間の写真に石畳などの柄を合成して施工後のイメージ写真をつくる",
+ "description": "地面の写真にローラーストーンや人工芝・砕石の柄を合成して施工後のイメージ写真をつくる",
  "start_url": "./",
  "scope": "./",
  "display": "standalone",
